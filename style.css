@@ -50,7 +50,8 @@
   padding: 0px;
 }
 
-.task__block, .title {
+.task__block,
+.title {
   list-style: none;
 }
 
