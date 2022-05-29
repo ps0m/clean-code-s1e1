@@ -172,14 +172,14 @@ input {
 
 /* Edit Task */
 .task .task__block .input-text {
-  display: none
+  display: none;
 }
 
-.task .editmode .input-text {
+.task .task__block_editmode .input-text {
   display: inline-block;
   width: 224px
 }
 
-.task .editmode .task__item {
+.task .task__block_editmode .task__item {
   display: none;
 }
