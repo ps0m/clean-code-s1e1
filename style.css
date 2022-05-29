@@ -145,7 +145,7 @@ input {
 }
 
 .task__block > .input-text {
-  width: 226px
+  width: 226px;
 }
 
 .button_delete .button_image {
@@ -161,13 +161,13 @@ input {
 /* Completed */
 
 .task#completed-tasks .task__item {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .task .task__block .input-text {
-  display:none
+  display:none;
 }
 
 .task .editmode .input-text {
